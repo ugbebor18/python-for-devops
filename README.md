@@ -88,6 +88,13 @@
 - Practice exercises and examples:
   - Example: Developing a script to manage JIRA using its RESTful API endpoints.
 
+## Day 15: Working with RESTful APIs (PART-2)
+- Introduction to Flask.
+- Understanding of the HTTP protocals.
+- Hosting a flask application
+- Practice exercises and examples:
+  - Example: Integrating GitHub webhooks to trigger a flask app that creates a JIRA ticket.
+
 ## Day 15: Data Serialization and Configuration Files
 - Serializing and deserializing data (JSON, YAML).
 - Managing configuration data.
